@@ -9,7 +9,7 @@ You can use the app on Heroku here!! : https://cryptic-eyrie-14827.herokuapp.com
 - Ruby
 - Ruby on Rails
 - Built with a postgresql database
-- Testing with Rspec
+- Testing with Rspec, Capybara and Factory-bot
 
 
 ## Getting Started
